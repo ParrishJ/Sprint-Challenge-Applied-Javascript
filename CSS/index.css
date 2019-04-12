@@ -31,21 +31,17 @@
 * {
   box-sizing: border-box;
 }
-html {
-  background-color: purple;
-}
 html,
 body {
   margin: 0;
   padding: 0;
-  background-color: purple;
 }
 body {
   display: flex;
   justify-content: none;
   align-items: center;
   flex-direction: column;
-  background-color: purple;
+  background-color: #f1f1f1;
   color: #333;
   font-family: 'PT Sans', sans-serif;
 }
